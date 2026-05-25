@@ -60,7 +60,7 @@ runs/
 └── tinystories_5000/
 ```
 
-这些目录通常不上传到 GitHub，因为其中包含 checkpoint、token ids、loss 文件等实验产物。
+这些目录不上传，因为其中包含 checkpoint、token ids、loss 文件等实验产物。
 
 ## 环境准备
 
